@@ -1,6 +1,6 @@
 ## Greetings, I'm Adham Muhammad 👋
 
-💫 **Next.js Frontend Developer | Next, React, Tailwind CSS, JavaScript ES6+, TypeScript | Fluent in English**
+💫 **Next.js Frontend Developer | Next, React, Tailwind CSS, JavaScript ES6+, TypeScript | Pretty decent in English**
 
 I'm Next.js Front-End Developer with a growing focus on the **MERN stack**. I specialize in building sleek, user-friendly, fully responsive web apps and continuously learning new technologies.
 
