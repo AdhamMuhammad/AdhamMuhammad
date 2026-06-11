@@ -4,7 +4,6 @@
 
 I'm Next.js Front-End Developer with a growing focus on the **MERN stack**. I specialize in building sleek, user-friendly, fully responsive web apps and continuously learning new technologies.
 
-🚀 Currently: Doing a React internship & building projects @LevelUp ESG® <br/>
 📚 Learning: Advanced React, Advanced Next.js, Node.js, Express, MongoDB
 
 <hr/>
